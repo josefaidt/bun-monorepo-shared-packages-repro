@@ -2,6 +2,6 @@
   "name": "package-a",
   "version": "0.1.0",
   "scripts": {
-    "run": "bun run.ts"
+    "start": "bun start.ts"
   }
 }
